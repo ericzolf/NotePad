@@ -1,6 +1,8 @@
-# NO LONGER ACTIVELY DEVELOPED
+# NO LONGER DEVELOPED
 
-as a possible replacement, see https://github.com/orgzly/orgzly-android instead
+Thanks for your interest but given the fact that Google has released (at last) a [Tasks app](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks), I've decided to not pursue my effort to make this app work.
+
+As a possible replacement, see also https://github.com/orgzly/orgzly-android 
 
 The source will be left available here in case it is useful to anyone but it is extremely unlikely to receive further official updates.
 
